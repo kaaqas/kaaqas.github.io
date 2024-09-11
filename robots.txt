@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kaaqas.github.io/Oxe/sitemap.Oxe.gz
